@@ -5,7 +5,7 @@ Users can become a member of the system by entering their information.
 
 Users can subscribe to the system with their Google accounts. (Simulation)
 
-Users can log into the system with their e-mail and password information, otherwise the system will send an error message.
+Users can log into the system with their e-mail and password information, otherwise the system send an error message.
 
 
 outputs:
