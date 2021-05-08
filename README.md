@@ -7,5 +7,12 @@ Users can log into the system with their e-mail and password information, otherw
 
 
 outputs:
-![5](https://user-images.githubusercontent.com/34512770/117546315-8586f600-b032-11eb-9f13-eb0f6ae41b69.png)
-![6](https://user-images.githubusercontent.com/34512770/117546316-861f8c80-b032-11eb-8ebd-c667bfb67ea8.png)
+(https://user-images.githubusercontent.com/34512770/117546315-8586f600-b032-11eb-9f13-eb0f6ae41b69.png)
+
+(https://user-images.githubusercontent.com/34512770/117546316-861f8c80-b032-11eb-8ebd-c667bfb67ea8.png)
+
+(https://user-images.githubusercontent.com/34512770/117546423-07771f00-b033-11eb-9283-50b249425dbb.png)
+
+(https://user-images.githubusercontent.com/34512770/117546424-07771f00-b033-11eb-9581-c7fd43701beb.png)
+
+
