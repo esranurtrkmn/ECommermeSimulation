@@ -7,7 +7,6 @@ Users can subscribe to the system with their Google accounts. (Simulation)
 
 Users can log into the system with their e-mail and password information, otherwise the system send an error message.
 
-
 outputs:
 
 ![5](https://user-images.githubusercontent.com/34512770/117546453-2f668280-b033-11eb-9023-6a9512885ef6.png)
